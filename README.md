@@ -9,3 +9,5 @@ Logistic Regresssion Algorithms        Accuracy is 99%
 Ramdom Forest Algorithms               Accuracy is 99%
 Naive Bayes                             Accuracy is 78%
 Decision Tree Algorithms              Accuracy is 99%
+
+<img width="1352" height="567" alt="image" src="https://github.com/user-attachments/assets/a75e12d8-d911-4a3e-93f2-94d2573e1030" />
